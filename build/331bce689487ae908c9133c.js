@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkulbitv=self.webpackChunkulbitv||[]).push([[331],{331:(e,t,u)=>{u.r(t),u.d(t,{default:()=>f});var r=u(893),n=u(294),i=u(72);function f(){var e=(0,i.$G)("main").t,t=(0,n.useState)(!1),u=t[0];return t[1],(0,n.useEffect)((function(){if(u)throw new Error}),[u]),(0,r.jsx)("div",{children:e("Главная страница")})}}}]);

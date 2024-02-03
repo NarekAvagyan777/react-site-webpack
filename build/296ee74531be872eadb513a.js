@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkulbitv=self.webpackChunkulbitv||[]).push([[296],{296:(u,e,t)=>{t.r(e),t.d(e,{default:()=>i});var a=t(893),s=t(72);function i(u){u.className;var e=(0,s.$G)("about"),t=e.t;return e.i18n,(0,a.jsx)("div",{children:t("О сайте")})}}}]);
