@@ -11,9 +11,5 @@ export default function MainPage() {
       throw new Error();
     }
   }, [error]);
-  return (
-    <div>
-      {t("Главная страница")}
-    </div>
-  );
+  return <div>{t("Главная страница")}</div>;
 }
